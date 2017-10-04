@@ -1,6 +1,7 @@
 package com.bsc.intg.svcs.exception;
 
 //added some comments
+//add extra comments
 public class ErrorResponse {
 	
 	String code;
